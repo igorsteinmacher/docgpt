@@ -19,3 +19,5 @@ For now you can ask about how to [contribute](https://pandas.pydata.org/docs/dev
 2. Start the application: ```poetry run python main.py```
 3. Input your question when "> " appears (loop), if using by cli;
 4. Input "q" to stop application.
+
+
